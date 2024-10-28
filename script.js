@@ -21,6 +21,7 @@ document.addEventListener('DOMContentLoaded', () => {
         songs = [
             { path: 'music/webmaniatheme1.mp3', title: 'ウェブマニアのテーマ1', artist: 'sunoAI, ウェブマニアbot, 8313p' },
             { path: 'music/webmaniatheme2.mp3', title: 'ウェブマニアのテーマ2', artist: 'sunoAI, ウェブマニアbot, 8313p' },
+            { path: 'music/webmaniatheme1-karaoke.mp3', title: 'ウェブマニアのテーマ1-カラオケ', artist: 'sunoAI, ウェブマニアbot, 8313p' },
             // 他の曲を追加
         ];
         
